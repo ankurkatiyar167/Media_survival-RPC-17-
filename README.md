@@ -69,7 +69,7 @@ While Kanpur being top in readiness  score but low engagement % has a room to in
 - **MS PowerPoint** – Storytelling & presentation
 
 Some formulas used-
-Print Copies = Copies Sold + Returned Copies
+Printed Copies = Copies Sold + Returned Copies
 
 Active Engagement %=100- Avg. bounce rate
 
