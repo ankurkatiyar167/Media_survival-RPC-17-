@@ -29,7 +29,7 @@ This project analyzes Bharat Herald’s **operational, revenue, and digital perf
 - 📰 **Wastage %** – highest for Varanasi
 - 📢 **Major contributor in Ad Revenue** – 60% from Government + Real Estate  
 - 🌐 **Digital Performance** – ₹12.2M investment, 683K engagement, bounce rate **65.7%** and active engagement % 34.23% 
-- 📱 **Best Digital Platform:** Mobile App Beta (61.83% engagement)  
+
 
 
 ---
