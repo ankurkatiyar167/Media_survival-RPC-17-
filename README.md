@@ -70,9 +70,13 @@ While Kanpur being top in readiness  score but low engagement % has a room to in
 
 Some formulas used-
 Print Copies = Copies Sold + Returned Copies
+
 Active Engagement %=100- Avg. bounce rate
+
 Waste Copies= printed copies- net circulation
+
 Active users= Active engagement % * downloads
+
 ROI= Ad revenue / net circulation
 
 ---
